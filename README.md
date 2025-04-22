@@ -55,4 +55,3 @@ This is a virtual assistant built with **Python**, featuring an interactive inte
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
