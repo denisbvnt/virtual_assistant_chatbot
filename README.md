@@ -2,9 +2,6 @@
 
 This is a virtual assistant built with **Python**, featuring an interactive interface using **Streamlit** and support for **Large Language Models (LLMs)**. It performs automated tasks based on dynamically generated prompts from user input.
 
-## 📷 Screenshot
-![image](https://github.com/user-attachments/assets/fa7abbcf-2e5e-491b-a6d4-1e5cbe99ff68)
-
 ## 📁 Project Structure
 
 - `main.py`: Launches the Streamlit app.
@@ -51,7 +48,13 @@ This is a virtual assistant built with **Python**, featuring an interactive inte
 - **Hugging Face Transformers** – Access to pre-trained LLMs for text generation and understanding
 - **LLMs** – Used for natural language understanding and response generation
 - Additional libraries and tools are listed in `requirements.txt`
-  
+
+
+## 📷 Screenshot
+
+![image](https://github.com/user-attachments/assets/fa7abbcf-2e5e-491b-a6d4-1e5cbe99ff68)
+
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
