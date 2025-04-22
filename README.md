@@ -1,4 +1,3 @@
-```markdown
 # 🤖 Virtual Assistant Chatbot
 
 This is a virtual assistant built with **Python**, featuring an interactive interface using **Streamlit** and support for **Large Language Models (LLMs)**. It performs automated tasks based on dynamically generated prompts from user input.
